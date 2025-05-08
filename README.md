@@ -25,6 +25,9 @@ Use PolynomialFeatures from sklearn to create polynomial features. Fit a Linear 
 Plot the regression lines for both Linear and Polynomial models. Visualize residuals to assess model performance.
 ## Program:
 ```
+developed By: MANOJ M
+Reg: 212223230122
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
